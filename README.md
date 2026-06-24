@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Asmau
 
-<!--
-**ASMAU-USMAN/ASMAU-USMAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Freshman Student at ASTU
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer & Future Tech Founder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Python, Web Development, and Data Structures & Algorithms
+
+🚀 Interested in Software Engineering, AI, Cybersecurity, and Open Source
+
+🤝 Looking to collaborate on software development projects
+
+## 📈 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ASMAU-USMAN&theme=github-dark)
+
+## 💻 Programming Languages & Technologies
+
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+- SQL
+- MySQL
+
+## 🌐 Connect with Me
+
+- 📬 Telegram: https://t.me/Asmu2i
+- 💡 LeetCode: https://leetcode.com/u/ayzalusman/
+- 🏆 Codeforces: https://codeforces.com/profile/Asmau_usman
+- 📧 Email: asmau7925@gmail.com
+
+⭐ Always learning, building, and growing.
